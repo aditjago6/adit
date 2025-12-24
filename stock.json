@@ -1,0 +1,41 @@
+{
+  "welcome": "welcome aditstoretj",
+  "stok_ikan": [
+    { "nama": "maja biru mutasi", "harga": "14k" },
+    { "nama": "maja biru big", "harga": "13k" },
+    { "nama": "maja biru kecil", "harga": "11k" },
+    { "nama": "maja merah", "harga": "20k" },
+    { "nama": "locnes kuno (2 stok)", "harga": "15k" },
+    { "nama": "mega", "harga": "11k / satu" },
+    { "nama": "laba laba", "harga": "6k" },
+    { "nama": "monster shark big batu", "harga": "10k" },
+    { "nama": "1m koin", "harga": "3k" },
+    { "nama": "kraken", "harga": "5k / 1 | 10k / 2" },
+    { "nama": "dephseeker rey big", "harga": "8k" },
+    { "nama": "big emerald whale", "harga": "16k" }
+  ],
+  "promo": [
+    { "nama": "beli dua mega", "harga": "22k" },
+    { "nama": "sc tumbal (3 stok)", "harga": "7k / beli 3" }
+  ],
+  "joki_fish_it": {
+    "status": "open",
+    "harga": "4k / hari",
+    "target": "10 hari",
+    "total": "40k",
+    "detail": [
+      "hari 1: 4k (total 4k)",
+      "hari 2: 4k (total 8k)",
+      "hari 3: 4k (total 12k)",
+      "hari 4: 4k (total 16k)",
+      "hari 5: 4k (total 20k)",
+      "hari 6: 4k (total 24k)",
+      "hari 7: 4k (total 28k)",
+      "hari 8: 4k (total 32k)",
+      "hari 9: 4k (total 36k)",
+      "hari 10: 4k (total 40k)"
+    ],
+    "note": "pelan-pelan, secret datang terus"
+  },
+  "catatan": "_ragu? mc in fee lu_"
+}
